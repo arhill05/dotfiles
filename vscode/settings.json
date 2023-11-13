@@ -1,6 +1,7 @@
 {
   "workbench.sideBar.location": "right",
-  "editor.fontFamily": "Cascadia Mono, Operator Mono, Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontFamily": "'Monaspace Neon', monospace",
+  "editor.fontLigatures": "'ss01', 'ss02', 'ss03'",
   "workbench.colorTheme": "Night Owl",
   "editor.fontSize": 14,
   "editor.lineHeight": 20,
